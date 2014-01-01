@@ -17,5 +17,5 @@ Bubble Babble is a binary data codec, its encoded data consists in 5-tuples of u
 
 It is quite useless, and that's why, as a big enthusiast for pointless stuff, such as libcaca, ansicat, fuckit, brainfuck, ... I decided to make a [bubblebabble Python module](https://gitorious.org/python-bubblebabble/python-bubblebabble) that encodes and decodes these words.
 
-xidak-cesyl-boved-bifak-hytyd-bukik-himol-damyf-dusuf-cotod-cuxyx
+	xidak-cesyl-boved-bifak-hytyd-bukik-himol-damyf-dusuf-cotod-cuxyx
 
