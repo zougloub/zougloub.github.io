@@ -14,5 +14,5 @@ Crawling from link to link, I finally managed to gett to [the Bubble Babble spec
 
 Bubble Babble is a data codec, its encoded data consists in 5-tuples of utterable (but meaningless) words.
 
-It is quite useless, and that's why, as a big enthusiast for pointless stuff, such as libcaca, fuckit, brainfuck, ...) I decided to make a [bubblebabble Python module](https://gitorious.org/python-bubblebabble/python-bubblebabble).
+It is quite useless, and that's why, as a big enthusiast for pointless stuff, such as libcaca, ansicat, fuckit, brainfuck, ...) I decided to make a [bubblebabble Python module](https://gitorious.org/python-bubblebabble/python-bubblebabble).
 
